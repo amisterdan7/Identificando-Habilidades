@@ -24,7 +24,7 @@ Sou um desenvolvedor Full Stack apaixonado por tecnologia, aprendizado contínuo
 ## Contatos
 - [LinkedIn](https://www.linkedin.com/in/ricardo-amisterdan/)
 - [GitHub](https://github.com/amisterdan)
-- E-mail: ricardo.amisterdanservo@gmail.com
+
 
 ## Diferenciais
 - Capacidade de transitar entre front-end e back-end
